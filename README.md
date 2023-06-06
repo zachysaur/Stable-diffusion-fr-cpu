@@ -1,0 +1,1 @@
+# Stable-diffusion-fr-cpu
